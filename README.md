@@ -1,15 +1,3 @@
-# User Authentication System
-
-A full-stack authentication system using JWT to secure user login and registration.
-
-Built by **Phan Duong Quoc Dat - 20120268** for IA03 and IA04 assessment of the **Advanced Web App Development** course at **HCMUS**.
-
-## Tech stack
-
--   Front-end: React, Tailwind CSS, Zustand (for state management)
--   Back-end: NestJS, JWT
--   Database: MongoDB
-
 ## How to run
 
 Clone the repository:
