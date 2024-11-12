@@ -1,9 +1,6 @@
 ## How to run
 
 Clone the repository:
-
-```bash
-git clone https://github.com/pdqdat/awp-ia03.git
 ```
 PORT=8080
 
